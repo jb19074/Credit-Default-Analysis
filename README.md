@@ -42,8 +42,5 @@ To run the notebook:
 4. Start Jupyter Notebook or Jupyter Lab and open `Credit_Default_Analysis.ipynb`.
 5. Run the notebook cells in sequence.
 
-## Notes
-This analysis is intended for educational purposes. Suggestions and contributions are welcome!
-
 ## References
 - Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
